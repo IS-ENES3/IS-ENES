@@ -18,6 +18,10 @@ Explore more about IS-ENES project via the following:
 - [**IS-ENES on Zenodo**](https://zenodo.org/communities/is-enes3/?page=1&size=20)
 - [**IS-ENES on YouTube**](https://www.youtube.com/channel/UC24YCohRVh1WXqzBm9tkL2g?view_as=subscriber)
 
+## Joining IS-ENES on GitHub
+
+You join us by asking to be added to the organization; have a look at the [procedure how to join a GitHub organization](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-your-membership-in-organizations/about-organization-membership), and if you would like to be a member, please contact us with your GitHub user name.
+
 ## Repo maintainers
 
 For questions about the current GitHub repo, please contact the maintainers:
