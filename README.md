@@ -22,4 +22,4 @@ Explore more about IS-ENES project via the following:
 
 For questions about the current GitHub repo, please contact the maintainers:
 
-- Valeriu Predoi <valeriu.predoi@ncas.ac.uk> GitHub: @valeriupredoi
+- Valeriu Predoi <valeriu.predoi@ncas.ac.uk> GitHub: [@valeriupredoi](https://github.com/valeriupredoi)
