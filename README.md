@@ -11,8 +11,15 @@ The community aims to develop a better understanding of past and present-day cli
 
 ## Explore IS-ENES
 
-- [IS-ENES Website](https://is.enes.org/)
-- [IS-ENES on Twitter](https://twitter.com/ISENES_RI)
-- [IS-ENES on Zenodo](https://zenodo.org/communities/is-enes3/?page=1&size=20)
-- [IS-ENES on YouTube](https://www.youtube.com/channel/UC24YCohRVh1WXqzBm9tkL2g?view_as=subscriber)
+Explore more about IS-ENES project via the following:
 
+- [**IS-ENES Website**](https://is.enes.org/)
+- [**IS-ENES on Twitter**](https://twitter.com/ISENES_RI)
+- [**IS-ENES on Zenodo**](https://zenodo.org/communities/is-enes3/?page=1&size=20)
+- [**IS-ENES on YouTube**](https://www.youtube.com/channel/UC24YCohRVh1WXqzBm9tkL2g?view_as=subscriber)
+
+## Repo maintainers
+
+For questions about the current GitHub repo, please contact the maintainers:
+
+- Valeriu Predoi <valeriu.predoi@ncas.ac.uk> GitHub: @valeriupredoi
